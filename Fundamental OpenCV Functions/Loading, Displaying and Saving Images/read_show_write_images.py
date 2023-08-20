@@ -4,6 +4,7 @@ import cv2
 # load the image from disk
 image = cv2.imread('eiffel_tower.jpg')
 
+print("The image is loaded as: ", type(image))
 # get the spatial dimensions
 # including width, height, and number of channels
 (height, width, channels) = image.shape[:3]
