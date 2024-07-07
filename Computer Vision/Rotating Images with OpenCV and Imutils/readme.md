@@ -1,1 +1,2 @@
-
+In this article I showed the steps required to rotate images using both OpenCV and imutil packages about the center or any other arbitrary points In clockwise or anticlockwise directions. I also showed how to rotate the image will preserving the full view, without cropping any parts.
+Here is the [medium article](https://medium.com/analytics-vidhya/rotating-images-with-opencv-and-imutils-99801cb4e03e)
