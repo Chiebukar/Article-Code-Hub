@@ -1,1 +1,2 @@
-
+In this article, I describe the steps required to resize images with OpenCV and Imutils. I also showed how we resize the image in such a way that we maintain its aspect ratio by using a calculated ratio to get the new dimensions. Finally, I showed an easier way to do this using imutils convenience functions.
+Here is the [Medium article](https://samuel-ozechi.medium.com/resizing-images-with-opencv-and-imutils-75e61643c2c3)
