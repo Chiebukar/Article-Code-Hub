@@ -1,1 +1,1 @@
-
+In this article, I showed how to shift images along their axes using OpenCV and Imutils. Here is the [Medium article](https://medium.com/analytics-vidhya/image-translation-with-opencv-and-imutils-637bd3605855)
